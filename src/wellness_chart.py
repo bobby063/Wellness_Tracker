@@ -461,3 +461,5 @@ if __name__ == '__main__':
     data_file = args[0] if args else wellness_data.DATA_FILE
     path = generate_chart(data_file, save_only=save_only)
     print(f"Chart saved as '{path}'")
+
+ 

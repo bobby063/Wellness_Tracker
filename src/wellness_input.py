@@ -302,6 +302,7 @@ class WellnessTrackerApp:
         self.sleep_slider.pack(padx=12, pady=(0, 4))
 
         # ── Buttons ──────────────────────────────────────────────
+
         btn_row = tk.Frame(container, bg=BG)
         btn_row.pack(pady=(6, 2))
 

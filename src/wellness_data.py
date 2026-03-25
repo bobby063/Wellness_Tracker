@@ -178,3 +178,4 @@ def get_sleep_hours():
         except (TypeError, ValueError):
             hours.append(None)
     return hours
+

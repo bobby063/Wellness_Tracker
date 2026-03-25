@@ -17,3 +17,5 @@ input app.png
 
 # Personal wellness data — keep the data/ folder but not your actual entries
 data/*.csv
+
+ 
