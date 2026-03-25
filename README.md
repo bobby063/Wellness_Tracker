@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Daily Wellness Tracker
 
 A desktop wellness tracking application for logging and visualising daily Sleep, Mood, and Energy scores. Built with Python, Tkinter, and Matplotlib.
@@ -134,6 +133,8 @@ wellness-tracker/
 
 ![Sample Wellness Chart](wellness_chart_2026_03.png)
 
+![Input App Screenshot](Input%20App.png)
+
 ---
 
 ## Colour Palette — Oura / Apple Health Style
@@ -179,4 +180,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 =======
 # Wellness_Tracker
 A desktop wellness tracking application for logging and visualising daily Sleep, Mood, and Energy scores. Built with Python, Tkinter, and Matplotlib.
->>>>>>> 48cf700052654a7e0139bf687b2a86fb9d1ee884
