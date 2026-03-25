@@ -5,7 +5,8 @@ __pycache__/
 
 # Generated chart output
 *.png
-!wellness_chart_2026_03.png
+wellness_chart_2026_03.png
+!wellness_chart_2026_03 Example.png
 !Input App.png
 !Input%20App.png
 !input app.png

@@ -131,7 +131,7 @@ wellness-tracker/
 
 ## Screenshots
 
-![Sample Wellness Chart](wellness_chart_2026_03.png)
+![Sample Wellness Chart](wellness_chart_2026_03%20Example.png)
 
 ![Input App Screenshot](Input%20App.png)
 
