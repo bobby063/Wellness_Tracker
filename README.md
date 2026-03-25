@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Daily Wellness Tracker
 
 A desktop wellness tracking application for logging and visualising daily Sleep, Mood, and Energy scores. Built with Python, Tkinter, and Matplotlib.
@@ -175,3 +176,7 @@ date,mood_score,energy_score,sleep_hours
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
+=======
+# Wellness_Tracker
+A desktop wellness tracking application for logging and visualising daily Sleep, Mood, and Energy scores. Built with Python, Tkinter, and Matplotlib.
+>>>>>>> 48cf700052654a7e0139bf687b2a86fb9d1ee884
